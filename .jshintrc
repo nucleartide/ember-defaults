@@ -29,6 +29,6 @@
   "esnext": true,
 
   "curly": false,
-  "asi": true
+  "asi": true,
   "unused": "vars"
 }
