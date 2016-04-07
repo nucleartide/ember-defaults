@@ -34,10 +34,9 @@ for my own use cases; it may or may not work for you.
 
 ```bash
 $ git clone https://github.com/nucleartide/ember-defaults
-$ rm -rf .git
-$ git init # this is your project now
+$ rm -rf .git && git init
 $ npm i && bower i
-$ node scripts/renamer.js <your project name here> # rename project
+$ node scripts/rename-project.js <your project name here>
 $ ember serve
 ```
 
