@@ -7,10 +7,10 @@ for my own use cases; it may or may not work for you.
 
 ## Features
 
-- fewer dotfiles
-- no semicolons
-- optional curly braces
-- collected wisdom from the Ember community
+- [x] fewer dotfiles
+- [x] no semicolons
+- [x] optional curly braces
+- [x] collected wisdom from the Ember community ![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
 
 ## Includes
 
