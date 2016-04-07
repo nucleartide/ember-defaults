@@ -37,6 +37,7 @@ $ git clone https://github.com/nucleartide/ember-defaults
 $ rm -rf .git
 $ git init # this is your project now
 $ npm i && bower i
+$ node scripts/renamer.js <your project name here> # rename project
 $ ember serve
 ```
 
