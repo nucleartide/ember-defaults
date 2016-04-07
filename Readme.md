@@ -7,10 +7,15 @@ for my own use cases; it may or may not work for you.
 
 ## Features
 
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+
 - [x] fewer dotfiles
 - [x] no semicolons
 - [x] optional curly braces
-- [x] collected wisdom from the Ember community ![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+- [x] collected wisdom from the Ember community
 
 ## Includes
 
@@ -36,7 +41,7 @@ for my own use cases; it may or may not work for you.
 $ git clone https://github.com/nucleartide/ember-defaults
 $ rm -rf .git && git init
 $ npm i && bower i
-$ node scripts/rename-project.js <your project name here>
+$ node scripts/rename-project.js <your_project_name_here>
 $ ember serve
 ```
 
