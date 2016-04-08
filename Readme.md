@@ -31,9 +31,10 @@ for my own use cases; it may or may not work for you.
 - [x] ember-truth-helpers
 - [x] ember-route-action-helper
 
-#### Misc.
+#### Async
 
 - [x] ember-ajax 2.0.0 for latest features
+- [x] ember-concurrency
 
 ## Install
 
