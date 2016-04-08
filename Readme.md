@@ -38,10 +38,10 @@ for my own use cases; it may or may not work for you.
 ## Install
 
 ```bash
-$ git clone https://github.com/nucleartide/ember-defaults
-$ rm -rf .git && git init
-$ npm i && bower i
-$ node scripts/rename-project.js <your_project_name_here>
-$ ember serve
+git clone https://github.com/nucleartide/ember-defaults
+rm -rf .git && git init
+npm i && bower i
+node scripts/rename-project.js <your_project_name_here>
+ember serve
 ```
 
