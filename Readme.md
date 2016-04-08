@@ -19,17 +19,18 @@ for my own use cases; it may or may not work for you.
 
 ## Includes
 
+#### Helpers
+
+- [x] ember-truth-helpers
+- [x] ember-route-action-helper
+- [x] ember-moment
+
 #### CSS
 
 - [x] ember-cli-sass
 - [x] bootstrap-sass
 - [x] ember-font-awesome
 - [x] ember-component-css
-
-#### Helpers
-
-- [x] ember-truth-helpers
-- [x] ember-route-action-helper
 
 #### Async
 
