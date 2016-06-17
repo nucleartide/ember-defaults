@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "dasherize": "^2.0.0"
+    "rsvp": "^3.2.1"
   }
 }
