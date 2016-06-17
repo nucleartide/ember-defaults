@@ -7,10 +7,6 @@ for my own use cases; it may or may not work for you.
 
 ## Features
 
-![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
-![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
-![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
-
 - [x] fewer dotfiles
 - [x] no semicolons
 - [x] collected wisdom from the Ember community
