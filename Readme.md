@@ -10,7 +10,6 @@ for my own use cases; it may or may not work for you.
 ![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
 ![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
 ![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
-![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
 
 - [x] fewer dotfiles
 - [x] no semicolons
@@ -20,19 +19,29 @@ for my own use cases; it may or may not work for you.
 
 #### Helpers
 
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+
 - [x] ember-truth-helpers
 - [x] ember-route-action-helper
 
 #### CSS
+
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
 
 - [x] ember-cli-sass
 - [x] ember-component-css
 
 #### Async
 
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+
 - [x] ember-concurrency
 
 #### Modules
+
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
 
 - [x] ember-engines
 
