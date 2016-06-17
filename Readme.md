@@ -35,7 +35,7 @@ for my own use cases; it may or may not work for you.
 
 #### Async
 
-![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/parrot.gif)
+![](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/master/parrots/boredparrot.gif)
 
 - [x] ember-concurrency
 
