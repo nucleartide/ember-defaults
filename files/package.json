@@ -1,5 +1,5 @@
 {
-  "name": "ember-defaults",
+  "name": "<%= name %>",
   "version": "0.0.0",
   "description": "Small description for ember-defaults goes here",
   "private": true,
@@ -21,7 +21,7 @@
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
     "ember-ajax": "^2.0.1",
-    "ember-cli": "2.5.1",
+    "ember-cli": "<%= emberCLIVersion %>",
     "ember-cli-app-version": "^1.0.0",
     "ember-cli-babel": "^5.1.6",
     "ember-cli-dependency-checker": "quaertym/ember-cli-dependency-checker#83a0a4dd9570fdbc568587904a6c014aa726f54c",

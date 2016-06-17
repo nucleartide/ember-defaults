@@ -7,7 +7,7 @@ var productionENV = require('./environment-production')
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-defaults',
+    modulePrefix: '<%= modulePrefix %>',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
