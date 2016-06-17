@@ -1,0 +1,1 @@
+export { default } from 'test-engine/components/test-engine/test-component/component';

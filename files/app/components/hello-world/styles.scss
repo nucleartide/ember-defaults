@@ -1,0 +1,11 @@
+
+$scoped-var: 111.11111111px;
+
+& {
+  background-color: tomato;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 2 * $scoped-var;
+}
+
+
