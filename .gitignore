@@ -21,3 +21,6 @@ testem.log
 *.swo
 *.swp
 
+# mac
+.DS_Store
+

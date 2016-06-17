@@ -28,7 +28,8 @@
   "eqnull": true,
   "esnext": true,
 
-  "curly": false,
+  "curly": true,
   "asi": true,
-  "unused": "vars"
+  "unused": "vars",
+  "noyield": true
 }

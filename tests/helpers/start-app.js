@@ -9,7 +9,7 @@ export default function startApp(attrs) {
   let attributes = Ember.merge({}, config.APP)
   attributes = Ember.merge(attributes, attrs)
 
-  Ember.run(_ => {
+  Ember.run(() => {
     application = Application.create(attributes)
     application.setupForTesting()
     application.injectTestHelpers()
