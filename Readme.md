@@ -1,4 +1,6 @@
 
+#### NOTE: While this has worked for me in the past, I'd discourage use of this repo (as of August 2, 2016) in the future. I'm exploring other boilerplate-related ideas at the moment.
+
 # Ember Defaults
 
 When starting a new Ember project, I find myself configuring and installing the
