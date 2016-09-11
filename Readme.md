@@ -1,5 +1,5 @@
 
-#### NOTE: While this has worked for me in the past, I'd discourage use of this repo (as of August 2, 2016) in the future. I'm exploring other boilerplate-related ideas at the moment.
+#### NOTE: I'm no longer maintaining this project since it's generally kinda hard to keep up with ember-cli. The libraries listed below are pretty cool though, you should check them out.
 
 # Ember Defaults
 
